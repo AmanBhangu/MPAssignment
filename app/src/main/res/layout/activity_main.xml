@@ -29,4 +29,9 @@
         android:src="@drawable/icon"
         android:layout_marginLeft="3dip"
         android:scaleType="center"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:buttonTint="@color/CHECK_COLOR" />
 </RelativeLayout>
