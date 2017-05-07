@@ -9,6 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:marginTop="2dp"
+    android:marginBottom="4dp"
     tools:context="com.example.a1691524.myapplication.MainActivity">
 
 </RelativeLayout>
