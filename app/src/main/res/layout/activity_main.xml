@@ -11,6 +11,7 @@
     android:marginTop="2dp"
     android:marginBottom="4dp"
     android:marginLeft="2dp"
+    android:marginRight="3dp"
     tools:context="com.example.a1691524.myapplication.MainActivity">
 
 </RelativeLayout>
