@@ -15,4 +15,10 @@
     android:background="#f7f7f7"
     tools:context="com.example.a1691524.myapplication.MainActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:text="@string/hello" />
 </RelativeLayout>
